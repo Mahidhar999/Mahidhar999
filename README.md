@@ -1,4 +1,18 @@
+# Hi, I'm Mahidhar Naga Sai Ram Medikonda 👋
 
+Python developer focused on learning, building practical projects, and improving every day.
+
+## 💻 Tech Stack
+- Python
+- Git & GitHub
+
+## 🌱 Currently Learning
+- Software development fundamentals
+- Building real-world Python projects
+- Open-source collaboration
+
+## 📫 Connect
+- Instagram: [@m_mahidhar_18](https://instagram.com/m_mahidhar_18)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_mahidhar_18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:medikondamahidhar18@gmail.com) 
 
